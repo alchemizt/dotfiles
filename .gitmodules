@@ -1,0 +1,6 @@
+[submodule "zsh-plugins/zsh-you-should-use"]
+	path = zsh-plugins/zsh-you-should-use
+	url = https://github.com/MichaelAquilina/zsh-you-should-use
+[submodule "zsh-plugins/spaceship-prompt"]
+	path = zsh-plugins/spaceship-prompt
+	url = https://github.com/spaceship-prompt/spaceship-prompt
