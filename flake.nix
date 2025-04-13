@@ -24,6 +24,7 @@
       modules = [
         ./home.nix
         ./modules/minimal.nix
+        ./modules/zsh.nix
       ];
       extraSpecialArgs = {
         inherit username homeDirectory;
